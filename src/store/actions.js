@@ -1,0 +1,9 @@
+export const FETCH_WEATHER = "COMMAND/FETCH_WEATHER_FOR_LAT_LNG";
+export const API_ERROR = "EVENT/API_ERROR_RECEIVED";
+export const WEATHER_DATA_RECEIVED = "EVENT/WEATHER_DATA_RECEIVED";
+export const WEATHER_ID_RECEIVED = "EVENT/WEATHER_ID_RECEIVED";
+
+//Fetch constants for fetching dron data
+export const FETCH_DRON_DATA = "FETCH_DRON_DATA";
+export const DRON_DATA_RECEIVED = "DRON_DATA_RECEIVED";
+export const FETCH_STOP = "FETCH_STOP";
